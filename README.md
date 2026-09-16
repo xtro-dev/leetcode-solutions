@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeetCode Solutions
 
 **Name:** Ishant Lanjewar  
@@ -28,3 +29,6 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 ## Progress
 
 See [PROGRESS.md](./PROGRESS.md) for the practice tracker.
+=======
+# leetcode-solutions
+>>>>>>> dbdd21d8be0bca16c4b5340b6e7ef35855b25564
